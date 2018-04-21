@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a self-thought and curiosity-driven developer I'm 30 years old and I started to get immersed in this amazing world of software development when I was 16 years old.
 
-### More Information
+My passions are high-level programming languages such as NodeJS, PHP, and Python.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently living in Copenhagen, Denmark and working as a developer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[francoca87@gmail.com](mailto:francoca87@gmail.com)
